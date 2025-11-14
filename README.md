@@ -1,5 +1,4 @@
-<!--HOSTED_DOCS_ONLY
-import useBaseUrl from '@docusaurus/useBaseUrl';
+
 
 export const Logo = (props) => {
   return (
@@ -15,8 +14,7 @@ export const Logo = (props) => {
 
 <Logo />
 
-<!--
-HOSTED_DOCS_ONLY-->
+<!
 <p align="center">
 <a href="https://datahub.com">
 <img alt="DataHub" src="https://raw.githubusercontent.com/datahub-project/static-assets/main/imgs/datahub-logo-color-mark.svg" height="150" />
